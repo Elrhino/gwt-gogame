@@ -15,8 +15,6 @@ public class Player implements Serializable {
 
     public Player() {
         this("John Doe");
-        this.score = 0;
-        this.status = "Waiting";
     }
 }
 
